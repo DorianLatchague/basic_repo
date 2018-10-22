@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    .container{
+    width: 940px;
+    background-color: #d4d1ae;
+    padding: 30px;
+    margin: 0 auto;
+    }
+        .ttl{
+            width: 650px;
+            margin: 0 auto 10px auto;
+        }
+            .ttl img{
+                display: inline-block;
+                height: 90px;
+                width: 180px;
+                background-color: white;
+            }
+            .ttl h1{
+                display:inline-block;
+            }
+            .row img{
+                margin: 4px;
+                display: inline-block;
+                outline: 3px solid black;
+            }
+            .row .blue{
+                width: 136px;
+                height: 136px;
+                border: 20px solid #82b4ed;
+            }
+            .row .red{
+                width: 176px;
+                height: 176px;
+                background-color: #f36971;
+            }
